@@ -116,7 +116,6 @@ export default {
   justify-content: space-around;
   width: 100vw;
   text-align: left;
-  margin-left: 5%;
   margin-top: 5%;
 
   &__partone{
@@ -136,6 +135,7 @@ export default {
     .meanvalue{
       position: relative;
       bottom: 4em;
+      right: 4em;
       z-index: 100;
     }
     .listvalue{
