@@ -1,2 +1,2 @@
-# Gijibo-Test
+# Gojibo-Test
 Vue.js data exploitations
