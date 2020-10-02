@@ -126,7 +126,7 @@ export default {
   &__graphic{
     border-radius: 0.5rem;
     width: 600px;
-    height: 700px;
+    height: 200px;
   }
 
   &__parttwo{
